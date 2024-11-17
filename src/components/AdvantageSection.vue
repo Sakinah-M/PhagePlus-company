@@ -103,6 +103,6 @@ export default {
 }
 
 .flex-container img {
-  max-width: 70%; /* Responsive image */
+  max-width: 100%; /* Responsive image */
 }
 </style>
