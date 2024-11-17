@@ -10,12 +10,12 @@
             <p>Applying the modified phages in field sites such as water treatment plants or in polluted water sources. </p>
             <li> Monitoring and evaluation:</li>
             <p>Monitoring the results of the treatment in terms of the effectiveness of the phages in eliminating bacteria, and after the disinfection process is completed, exposing the water to ultraviolet rays to ensure that they do not affect the environment.</p>
-            <div class="flex-container"><img
+           
+        </ol> <div class="flex-container"><img
         :style="imageStyle" alt="Description" 
           class="micros"
           :src="micros"
         /></div>
-        </ol>
     </section>
 </template>
 
